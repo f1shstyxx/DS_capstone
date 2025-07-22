@@ -1,4 +1,5 @@
-# Ignore large local data files
+# custom project rules
+# Ignore large local CSV data files
 *.csv
 
 # Byte-compiled / optimized / DLL files
